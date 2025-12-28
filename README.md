@@ -17,7 +17,8 @@ Just experimenting with flexbox to create different layout patterns. Each layout
 
 ## How to View
 
-Open `index.html` in a browser. Click any layout to see it full screen.
+Open **https://piyushcodes7.github.io/flexBoxLayouts/** link to check the work. OR
+Clone the repo, Open `index.html` in a browser. Click any layout to see it full screen.
 
 ## Tech
 
